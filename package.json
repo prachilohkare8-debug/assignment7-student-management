@@ -1,0 +1,17 @@
+{
+  "name": "assignment7-student-management",
+  "version": "1.0.0",
+  "description": "Web Technology Assignment 7 - Student Management System using HTML, CSS, Express, Mongoose and MongoDB Atlas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  },
+  "devDependencies": { "nodemon": "^3.1.9" }
+}
